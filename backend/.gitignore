@@ -1,0 +1,93 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Build directory
+dist/
+build/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional coverage directory
+coverage/
+
+# Optional nyc output
+.nyc_output/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# SvelteKit build output
+.svelte-kit/
+
+# Gatsby files
+.cache/
+public/
+
+# Gridsome files
+.cache/
+dist/
+
+# Bower dependencies
+bower_components/
+
+# Compiled binary addons (https://github.com/nodejs/node-gyp)
+build/Release
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# VS Code workspace storage
+.vscode/
+.history/
+
+# JetBrains IDEs
+.idea/
